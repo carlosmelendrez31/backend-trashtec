@@ -13,7 +13,7 @@ namespace trashtec_api.dTOs.Usuarios
         [Column("email")]
         public string email { get; set; }
 
-        private string _contrasena;
+        private string? _contrasena;
 
         [Required]
         [Column("contrasena")]
@@ -22,5 +22,10 @@ namespace trashtec_api.dTOs.Usuarios
             get => _contrasena;
             set => _contrasena = BCrypt.Net.BCrypt.HashPassword(value); // Encripta la contraseña al asignarla
         }
+        public bool VerificarContrasena(string contrasenaAComparar)
+        {
+            return BCrypt.Net.BCrypt.Verify(contrasenaAComparar, _contrasena);
+        }
+
     }
 }

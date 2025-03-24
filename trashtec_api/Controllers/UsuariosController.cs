@@ -66,7 +66,7 @@ namespace trashtec_api.Controllers
 
         // PUT: api/Usuarios/{id} (Actualizar usuario)
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUsuario(long id, UsuarioRegistro usuarioRegistro)
+        public async Task<IActionResult> PutUsuario(int id, UsuarioRegistro usuarioRegistro)
         {
             // Buscar el usuario existente en la base de datos usando el ID
             var usuario = await _context.Usuarios.FindAsync(id);

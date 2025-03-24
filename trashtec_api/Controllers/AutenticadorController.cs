@@ -26,6 +26,6 @@ public class AutenticadorController : ControllerBase
 
 public class LoginRequest
 {
-    public string email { get; set; }
-    public string contrasena { get; set; }
+    public string? email { get; set; }
+    public string? contrasena { get; set; }
 }

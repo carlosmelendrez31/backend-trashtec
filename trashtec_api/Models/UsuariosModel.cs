@@ -27,7 +27,7 @@ namespace trashtec_api.Models
         public string contrasena
         {
             get => _contrasena;
-            set => _contrasena = BCrypt.Net.BCrypt.HashPassword(value); // Encripta la contraseña al asignarla
+            set => _contrasena = value; // Ya no se cifra aquí
         }
 
         [Column("dispositivoid")]
