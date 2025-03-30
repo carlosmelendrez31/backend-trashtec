@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fG99Y+rQJ0=",
+  "dgSpecHash": "xfmPKBFAmbM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Melendrez\\Desktop\\backend\\trashtec_api\\trashtec_api.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\trashtec_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Melendrez\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Carlos Melendrez\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
