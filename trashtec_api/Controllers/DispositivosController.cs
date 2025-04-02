@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using trashtec_api.Data;
+using trashtec_api.dTOs.Dispositivos;
+using trashtec_api.dTOs.Usuarios;
 using trashtec_api.Models;
 
 namespace trashtec_api.Controllers
@@ -39,6 +41,7 @@ namespace trashtec_api.Controllers
 
             return dispositivo;
         }
+        /*
         [HttpPost("agregar")]
         public IActionResult AgregarDispositivo([FromBody] DispositivoModel dispositivo)
         {
@@ -50,6 +53,29 @@ namespace trashtec_api.Controllers
             _context.Dispositivos.Add(dispositivo);
             _context.SaveChanges();
             return Ok(new { mensaje = "Dispositivo agregado correctamente", dispositivo.IdDispositivo });
+        }
+        */
+        [HttpPost("agregar")]
+        public IActionResult AgregarDispotivo([FromBody] AgregarDmodel agregardispostivo)
+        {
+            if (agregardispostivo == null)
+                return BadRequest("Datos inválidos");
+
+            // Crear una instancia de Usuario basada en UsuarioRegistro
+            var Dispositivo = new DispositivoModel
+            {
+                // Asigna los valores del modelo UsuarioRegistro al modelo Usuario
+                Nombre =agregardispostivo.Nombre,
+                Tipo = agregardispostivo.Tipo,
+
+            };
+
+
+            _context.Dispositivos.Add(Dispositivo);
+            _context.SaveChanges();
+
+            // Retornar una respuesta con el mensaje y el Id del nuevo usuario
+            return Ok(new { mensaje = "Dispositivo agregado correctamente", Dispositivo.IdDispositivo });
         }
 
         // PUT: api/Dispositivos/{id} (Actualizar dispositivo)

@@ -15,6 +15,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Registrar AuthService
 builder.Services.AddScoped<AuthServices>();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAnyOrigin",
+        builder => builder.AllowAnyOrigin() // Permitir cualquier origen
+                          .AllowAnyMethod() // Permitir cualquier método (GET, POST, PUT, DELETE, etc.)
+                          .AllowAnyHeader()); // Permitir cualquier encabezado
+});
 
 // Verificar si las claves de JWT están configuradas
 var jwtKey = builder.Configuration["Jwt:Key"];

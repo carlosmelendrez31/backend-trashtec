@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\controllers\\dispositivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\controllers\\dispositivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\dtos\\dispositivos\\agregardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\dtos\\dispositivos\\agregardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\dtos\\usuarios\\usuarioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +35,16 @@
       "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\models\\dispositivomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\migrations\\20250217023012_sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\migrations\\20250217021106_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\controllers\\dispositivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\controllers\\dispositivoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\controllers\\autenticadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\controllers\\autenticadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|solutionrelative:trashtec_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264EF519-61D8-4360-96BF-0AAEE3602610}|trashtec_api\\trashtec_api.csproj|c:\\users\\carlos melendrez\\downloads\\backend\\trashtec_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,84 +94,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "DispositivosController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\DispositivosController.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Controllers\\DispositivosController.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\DispositivosController.cs",
+              "RelativeToolTip": "trashtec_api\\Controllers\\DispositivosController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAtwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:47:28.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DispositivoModel.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\DispositivoModel.cs",
               "RelativeDocumentMoniker": "trashtec_api\\Models\\DispositivoModel.cs",
               "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\DispositivoModel.cs",
               "RelativeToolTip": "trashtec_api\\Models\\DispositivoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T01:40:05.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RegistroModel.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\RegistroModel.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Models\\RegistroModel.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\RegistroModel.cs",
-              "RelativeToolTip": "trashtec_api\\Models\\RegistroModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:50:13.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuariosModel.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\UsuariosModel.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Models\\UsuariosModel.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\UsuariosModel.cs",
-              "RelativeToolTip": "trashtec_api\\Models\\UsuariosModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T00:32:02.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Program.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Program.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Program.cs",
-              "RelativeToolTip": "trashtec_api\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAjwFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T00:58:23.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthServices.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Services\\AuthServices.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Services\\AuthServices.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Services\\AuthServices.cs",
-              "RelativeToolTip": "trashtec_api\\Services\\AuthServices.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:55:10.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250217023012_sss.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\20250217023012_sss.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Migrations\\20250217023012_sss.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\20250217023012_sss.cs",
-              "RelativeToolTip": "trashtec_api\\Migrations\\20250217023012_sss.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T02:45:08.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UsuarioUpdate.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\dTOs\\Usuarios\\UsuarioUpdate.cs",
               "RelativeDocumentMoniker": "trashtec_api\\dTOs\\Usuarios\\UsuarioUpdate.cs",
@@ -179,31 +135,118 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "trashtec_api\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:50:37.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UsuarioRegistro.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\dTOs\\Usuarios\\UsuarioRegistro.cs",
               "RelativeDocumentMoniker": "trashtec_api\\dTOs\\Usuarios\\UsuarioRegistro.cs",
               "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\dTOs\\Usuarios\\UsuarioRegistro.cs",
               "RelativeToolTip": "trashtec_api\\dTOs\\Usuarios\\UsuarioRegistro.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T20:13:57.58Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Program.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Program.cs",
+              "RelativeToolTip": "trashtec_api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:58:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "trashtec_api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:45:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarDmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\dTOs\\Dispositivos\\AgregarDmodel.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\dTOs\\Dispositivos\\AgregarDmodel.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\dTOs\\Dispositivos\\AgregarDmodel.cs",
+              "RelativeToolTip": "trashtec_api\\dTOs\\Dispositivos\\AgregarDmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:27:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Services\\AuthServices.cs",
+              "RelativeToolTip": "trashtec_api\\Services\\AuthServices.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswD8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:55:10.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "trashtec_api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAhwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T01:50:37.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250217023012_sss.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\20250217023012_sss.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Migrations\\20250217023012_sss.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\20250217023012_sss.cs",
+              "RelativeToolTip": "trashtec_api\\Migrations\\20250217023012_sss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:45:08.727Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "UsuariosModel.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\UsuariosModel.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Models\\UsuariosModel.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\UsuariosModel.cs",
+              "RelativeToolTip": "trashtec_api\\Models\\UsuariosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:32:02.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistroModel.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\RegistroModel.cs",
+              "RelativeDocumentMoniker": "trashtec_api\\Models\\RegistroModel.cs",
+              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Models\\RegistroModel.cs",
+              "RelativeToolTip": "trashtec_api\\Models\\RegistroModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:50:13.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "trashtec_api\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -215,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20250217033837_FkOpcionales.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\20250217033837_FkOpcionales.cs",
               "RelativeDocumentMoniker": "trashtec_api\\Migrations\\20250217033837_FkOpcionales.cs",
@@ -227,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "20250217021106_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Migrations\\20250217021106_Inicial.cs",
               "RelativeDocumentMoniker": "trashtec_api\\Migrations\\20250217021106_Inicial.cs",
@@ -239,19 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DispositivosController.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\DispositivosController.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Controllers\\DispositivosController.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\DispositivosController.cs",
-              "RelativeToolTip": "trashtec_api\\Controllers\\DispositivosController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAIAwwDIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:47:28.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AutenticadorController.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\AutenticadorController.cs",
               "RelativeDocumentMoniker": "trashtec_api\\Controllers\\AutenticadorController.cs",
@@ -263,19 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "trashtec_api\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "trashtec_api\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T01:45:36.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "trashtec_api\\Controllers\\WeatherForecastController.cs",
@@ -287,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "trashtec_api\\WeatherForecast.cs",
@@ -299,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\appsettings.json",
               "RelativeDocumentMoniker": "trashtec_api\\appsettings.json",
@@ -311,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "trashtec_api\\Properties\\launchSettings.json",
@@ -323,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "trashtec_api.csproj",
               "DocumentMoniker": "C:\\Users\\Carlos Melendrez\\Downloads\\backend\\trashtec_api\\trashtec_api.csproj",
               "RelativeDocumentMoniker": "trashtec_api\\trashtec_api.csproj",

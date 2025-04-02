@@ -100,15 +100,15 @@
   },
   {
     "ContainingType": "trashtec_api.Controllers.DispositivosController",
-    "Method": "AgregarDispositivo",
+    "Method": "AgregarDispotivo",
     "RelativePath": "api/Dispositivos/agregar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dispositivo",
-        "Type": "trashtec_api.Models.DispositivoModel",
+        "Name": "agregardispostivo",
+        "Type": "trashtec_api.dTOs.Dispositivos.AgregarDmodel",
         "IsRequired": true
       }
     ],
