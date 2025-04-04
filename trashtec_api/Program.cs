@@ -49,17 +49,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateLifetime = true
         };
     });
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAngularClient",
-        policy =>
-        {
-            policy.WithOrigins("http://localhost:4200") // Permite tu frontend
-                  .AllowAnyMethod()
-                  .AllowAnyHeader()
-                  .AllowCredentials();
-        });
-});
+
 
 
 builder.Services.AddAuthorization();
@@ -86,7 +76,7 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseCors("AllowAngularClient");
+app.UseCors("AllowAnyOrigin");
 
 // **IMPORTANTE: Asegurar que los controladores se mapeen correctamente**
 app.MapControllers();

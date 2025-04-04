@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tuZYurML5mQXkTYFq3yfXe4hDK8AIFgkYzyWuT+OGac=",
+  "Source": "trashtec_api",
+  "BasePath": "_content/trashtec_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

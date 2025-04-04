@@ -30,8 +30,8 @@ namespace trashtec_api.Models
             set => _contrasena = value; // Ya no se cifra aquí
         }
 
-        [Column("dispositivoid")]
-        public int? dispositivoId { get; set; }  // 🔹 FK opcional
+        [Column("idDispositivo")]
+        public int? idDispositivo { get; set; }  // 🔹 FK opcional
 
         // Método para verificar contraseñas
         public bool VerificarContrasena(string contrasenaAComparar)

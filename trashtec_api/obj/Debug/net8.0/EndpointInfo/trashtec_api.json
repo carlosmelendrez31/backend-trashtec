@@ -524,7 +524,7 @@
             "minLength": 1,
             "type": "string"
           },
-          "dispositivoId": {
+          "idDispositivo": {
             "type": "integer",
             "format": "int32",
             "nullable": true

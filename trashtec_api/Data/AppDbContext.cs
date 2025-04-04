@@ -15,7 +15,7 @@ namespace trashtec_api.Data
             modelBuilder.Entity<UsuariosModel>()
                 .HasOne<DispositivoModel>()
                 .WithMany()
-                .HasForeignKey(u => u.dispositivoId)
+                .HasForeignKey(u => u.idDispositivo)
                 .OnDelete(DeleteBehavior.SetNull); // 🔹 FK opcional
 
           

@@ -58,30 +58,18 @@ public class AuthServices
         Console.WriteLine("✅ Usuario autenticado correctamente.");
 
         // 2️⃣ Obtener los dispositivos asociados al usuario
-        List<string> dispositivos = new List<string>();
-        string deviceQuery = "SELECT \"idDispositivo\" FROM \"Dispositivos\" WHERE \"idUsuario\" = @UserId";
-        await using var deviceCmd = new NpgsqlCommand(deviceQuery, connection);
-        deviceCmd.Parameters.AddWithValue("UserId", Convert.ToInt32(userId));
-
-        await using var deviceReader = await deviceCmd.ExecuteReaderAsync();
-        while (await deviceReader.ReadAsync()) // 🔹 Usar await aquí
-        {
-            dispositivos.Add(deviceReader["idDispositivo"].ToString());
-        }
+      
 
         // 3️⃣ Generar token
-        string token = GenerateToken(email, userId, nombreUsuario, dispositivos);
+        string token = GenerateToken(email, userId, nombreUsuario);
 
         // 4️⃣ Devolver el token y la lista de dispositivos
-        return new
-        {
-            Token = token,
-            Dispositivos = dispositivos
-        };
+        return token;
+       
     }
 
 
-    private string GenerateToken(string email, string userId, string nombreUsuario, List<string> dispositivos)
+    private string GenerateToken(string email, string userId, string nombreUsuario)
     {
         var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtKey));
         var credentials = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -96,10 +84,7 @@ public class AuthServices
         };
 
         // 🔥 Agregar cada dispositivo como un claim
-        foreach (var dispositivo in dispositivos)
-        {
-            claims.Add(new Claim("idDispositivo", dispositivo));
-        }
+       
 
         var token = new JwtSecurityToken(
             issuer: _jwtIssuer,
